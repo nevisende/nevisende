@@ -3,11 +3,12 @@
 [![Website](https://img.shields.io/badge/hackon.me-UP-brightgreen?style=for-the-badge&logo=appveyor)](https://hackon.me)
 [![Twitter Follow](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/furkandnzhan)
 
-## I'm a Young, Developer, and Designer!!
+## <i>I'm a Young, Full-Stack Developer, and Designer</i>!!
 
+- 🦾 I've been working on my projects by using mostly <i>MERN</i> and <i>Figma</i>.
 - 🔭 I just launched my first channel: [Just Code It !][course]!
 - 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
+- 👯 I’m currently available open to new job opportunities. 
 - 🥅 2022 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to design a website and write poems
 
