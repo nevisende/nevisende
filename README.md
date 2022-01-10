@@ -3,7 +3,7 @@
 [![Website](https://img.shields.io/badge/hackon.me-UP-brightgreen?style=for-the-badge&logo=appveyor)](https://hackon.me)
 [![Twitter Follow](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/furkandnzhan)
 
-## <i>I'm a Young, Full-Stack Developer, and Designer</i>!!
+## <i>I'm a Sofware Developer, and Designer</i>!!
 
 - 🦾 I've been working on my projects by using mostly <i>MERN</i> and <i>Figma</i>.
 - 🔭 I just launched my first channel: [Just Code It !][course]!
