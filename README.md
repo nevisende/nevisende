@@ -6,7 +6,7 @@
 ## <i>I'm a Sofware Developer, and Designer</i>!!
 
 - 🦾 I've been working on my projects by using mostly <i>MERN</i> and <i>Figma</i>.
-- 🔭 I just launched my first channel: [Just Code It !][course]!
+- 🔭 I just launched my first channel: [Just Code It !][youtube]
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m currently available open to new job opportunities. 
 - 🥅 2022 Goals: Contribute more to Open Source projects
