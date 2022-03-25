@@ -4,13 +4,11 @@
 -->
 
 
-[![Twitter Follow](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/furkandnzhan)
 
 ## <i>I'm a Sofware Developer, and Designer</i>!!
 
 - 🦾 I've been working on my projects by using mostly <i>MERN</i> and <i>Figma</i>.
-- 🔭 I just launched my first channel: [Just Code It !][youtube]
-- 🌱 I’m currently learning everything 🤣
+- ❤️ I am in love with learning and teaching
 - 👯 I’m currently available open to new job opportunities. 
 - 🥅 2022 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to design a website and write poems
@@ -46,16 +44,6 @@
 
 <br />
 <br />
-
----
-
-### 📺 Latest YouTube Videos
-
-<!-- YOUTUBE:START -->
-- [Demo Background Sample Video](https://www.youtube.com/watch?v=zGFRTfMgF_c)
-<!-- YOUTUBE:END -->
-
-➡️ [more videos...](https://www.youtube.com/channel/UCXR5kHOuNdjMtdSUKRX8VFQ)
 
 ---
 
