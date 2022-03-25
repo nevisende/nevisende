@@ -5,9 +5,9 @@
 
 
 
-## <i>I'm a Sofware Developer, and Designer</i>!!
+## <i>I'm a Sofware Engineer</i>!!
 
-- 🦾 I've been working on my projects by using mostly <i>MERN</i> and <i>Figma</i>.
+- 🦾 I've been working with JavaScript, JavaScript Frameworks and Ruby on Rails
 - ❤️ I am in love with learning and teaching
 - 👯 I’m currently available open to new job opportunities. 
 - 🥅 2022 Goals: Contribute more to Open Source projects
